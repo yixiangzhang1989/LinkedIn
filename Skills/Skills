@@ -1,2 +1,2 @@
 Python: matplotlib, NumPy, pandas, pip, py2exe, pyecharts, SciPy, seaborn, wxPython
-R
+R: data.table, ggplot2, randomForest

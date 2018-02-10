@@ -1,3 +1,11 @@
 MATLAB: DOMFluor Toolbox (DOMFluor), SOM Toolbox (somtoolbox)
 Python: matplotlib, NumPy, pandas, pip, py2exe, pyecharts, SciPy, seaborn, wxPython
 R: data.table, ggplot2, randomForest
+Data Analysis: simple linear regression analysis, multiple linear regression analysis, multivariate linear regression analysis;
+               ordinary least square regression analysis, principal component regression analysis, partial least square regression analysis, ridge regression analysis;
+               linear correlation analysis;
+               canonical correlation analysis;
+               one-way analysis of variance;
+               Decision Tree, Random Forest
+               Back Propagation Neural Network, Discrete Hopfield Neural Network, Elman Neural Network, Generalized Regression Neural Network, Learning Vector Quantization Neural Network, Probabilistic Neural Network, Radical Basis Function Neural Network;
+               Extreme Learning Machine;

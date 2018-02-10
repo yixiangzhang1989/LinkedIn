@@ -6,6 +6,8 @@ Data Analysis: simple linear regression analysis, multiple linear regression ana
                linear correlation analysis;
                canonical correlation analysis;
                one-way analysis of variance;
-               Decision Tree, Random Forest
+               hierarchical cluster analysis;
+               Decision Tree, Random Forest;
                Back Propagation Neural Network, Discrete Hopfield Neural Network, Elman Neural Network, Generalized Regression Neural Network, Learning Vector Quantization Neural Network, Probabilistic Neural Network, Radical Basis Function Neural Network;
                Extreme Learning Machine;
+               parallel factor analysis, self-organizing map;

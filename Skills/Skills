@@ -5,6 +5,7 @@ Python:
 R:
     data.table, ggplot2, randomForest
 Data Analysis:
+    independent two-sample t-test
     simple linear regression analysis, multiple linear regression analysis, multivariate linear regression analysis;
     ordinary least square regression analysis, principal component regression analysis, partial least square regression analysis, ridge regression analysis;
     linear correlation analysis;

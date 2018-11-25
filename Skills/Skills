@@ -1,7 +1,7 @@
 Computer Programming Language:
     C
 MATLAB:
-    DOMFluor Toolbox (DOMFluor), SOM Toolbox (somtoolbox)
+    DOMFluor Toolbox (DOMFluor), LIBSVM, SOM Toolbox (somtoolbox)
 Python:
     matplotlib, NumPy, pandas, pip, py2exe, pyecharts, SciPy, seaborn, wxPython
 R:

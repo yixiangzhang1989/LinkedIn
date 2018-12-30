@@ -14,9 +14,13 @@ Data Analysis:
     canonical correlation analysis;
     one-way analysis of variance;
     hierarchical cluster analysis;
+    factor analysis;
     Decision Tree, Random Forest;
     Back Propagation Neural Network, Discrete Hopfield Neural Network, Elman Neural Network, Generalized Regression Neural Network, Learning Vector Quantization Neural Network, Probabilistic Neural Network, Radical Basis Function Neural Network;
     Extreme Learning Machine;
+    support vector classification, support vector regression;
+    cross-validation, genetic algorithm, particle swarm optimization;
+    principal components analysis, redundancy analysis;
     parallel factor analysis, self-organizing map
 Instrumental Analysis:
     fluorescence spectrophotometry, gas chromatography, TOC analysis, UV-Vis spectrophotometry

@@ -3,7 +3,7 @@ Computer Programming Language:
 MATLAB:
     DOMFluor Toolbox (DOMFluor), LIBSVM, LIBSVM-FarutoUltimate, SOM Toolbox (somtoolbox)
 Python:
-    Graphviz, matplotlib, NumPy, pandas, pip, py2exe, pyecharts, SciPy, seaborn, wxPython
+    Graphviz, matplotlib, NumPy, pandas, pip, py2exe, pyecharts, SciPy, seaborn, VisPy, wxPython
 R:
     BiocInstaller, data.table, ggplot2, randomForest, Rgraphviz
 Data Analysis:

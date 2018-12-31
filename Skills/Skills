@@ -3,9 +3,9 @@ Computer Programming Language:
 MATLAB:
     DOMFluor Toolbox (DOMFluor), LIBSVM, LIBSVM-FarutoUltimate, SOM Toolbox (somtoolbox)
 Python:
-    matplotlib, NumPy, pandas, pip, py2exe, pyecharts, SciPy, seaborn, wxPython
+    Graphviz, matplotlib, NumPy, pandas, pip, py2exe, pyecharts, SciPy, seaborn, wxPython
 R:
-    data.table, ggplot2, randomForest
+    BiocInstaller, data.table, ggplot2, randomForest, Rgraphviz
 Data Analysis:
     independent two-sample t-test
     simple linear regression analysis, multiple linear regression analysis, multivariate linear regression analysis;

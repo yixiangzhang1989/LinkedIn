@@ -1,11 +1,11 @@
 Computer Programming Language:
     C
 Software:
-    PaintTool SAI, WPS Spreadsheets
+    Jupyter Notebook, PaintTool SAI, WinPython, WPS Spreadsheets
 MATLAB:
     DOMFluor Toolbox (DOMFluor), LIBSVM, LIBSVM-FarutoUltimate, SOM Toolbox (somtoolbox)
 Python:
-    Blaze, bqplot, Conda, Dask, ggplot, Graphviz, HoloViews, into, IPython, matplotlib, NumPy, Odo, pandas, pip, py2exe, pyecharts, PyMySQL, PyQtGraph, PythonQwt, SciPy, seaborn, VisPy, wxPython, xarray
+    Blaze, bqplot, Conda, Dask, ggplot, Graphviz, guidata, guiqwt, HoloViews, into, IPython, matplotlib, NumPy, Odo, pandas, pip, py2exe, pyecharts, PyMySQL, PyQtGraph, PythonQwt, SciPy, seaborn, VisPy, wxPython, xarray
 R:
     BiocInstaller, data.table, ggplot2, randomForest, Rgraphviz
 Data Analysis:

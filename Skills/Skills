@@ -5,7 +5,7 @@ Software:
 MATLAB:
     DOMFluor Toolbox (DOMFluor), LIBSVM, LIBSVM-FarutoUltimate, SOM Toolbox (somtoolbox)
 Python:
-    Blaze, bqplot, Conda, Dask, ggplot, Graphviz, guidata, guiqwt, HoloViews, into, IPython, matplotlib, mpld3, NumPy, Odo, pandas, pip, Plotly, py2exe, pyecharts, Pygal, PyMySQL, PyQtGraph, PythonQwt, SciPy, seaborn, Veusz, VisPy, wxPython, xarray
+    Altair, Blaze, bqplot, Conda, Dask, ggplot, Graphviz, guidata, guiqwt, HoloViews, into, IPython, matplotlib, mpld3, NumPy, Odo, pandas, pip, Plotly, py2exe, pyecharts, Pygal, PyMySQL, PyQtGraph, PythonQwt, SciPy, seaborn, Veusz, Vincent, VisPy, wxPython, xarray
 R:
     BiocInstaller, data.table, ggplot2, Plotly, randomForest, readxl, reshape2, Rgraphviz
 Data Analysis:

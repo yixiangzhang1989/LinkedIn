@@ -7,7 +7,7 @@ MATLAB:
 Python:
     Altair, Blaze, bqplot, Chaco, Conda, Dask, Enable, ggplot, Graphviz, guidata, guiqwt, HoloViews, into, IPython, leather, matplotlib, mpld3, NumPy, Odo, pandas, pip, Plotly, py2exe, pyecharts, Pygal, PyMySQL, PyQtGraph, PythonQwt, SciPy, seaborn, Traits, TraitsUI, Veusz, Vincent, VisPy, wxPython, xarray
 R:
-    BiocInstaller, data.table, ggplot2, Plotly, randomForest, readxl, reshape2, Rgraphviz
+    BiocInstaller, data.table, dplyr, ggplot2, mschart, officer, pbapply, Plotly, plyr, randomForest, readxl, reshape2, Rgraphviz, RPostgreSQL, rstudioapi, stringi, stringr, tidyr
 Data Analysis:
     independent two-sample t-test
     simple linear regression analysis, multiple linear regression analysis, multivariate linear regression analysis;

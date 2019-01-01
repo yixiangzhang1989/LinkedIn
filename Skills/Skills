@@ -3,7 +3,7 @@ Computer Programming Language:
 MATLAB:
     DOMFluor Toolbox (DOMFluor), LIBSVM, LIBSVM-FarutoUltimate, SOM Toolbox (somtoolbox)
 Python:
-    Conda, ggplot, Graphviz, HoloViews, matplotlib, NumPy, pandas, pip, py2exe, pyecharts, PyMySQL, SciPy, seaborn, VisPy, wxPython, xarray
+    Blaze, bqplot, Conda, ggplot, Graphviz, HoloViews, into, matplotlib, NumPy, pandas, pip, py2exe, pyecharts, PyMySQL, SciPy, seaborn, VisPy, wxPython, xarray
 R:
     BiocInstaller, data.table, ggplot2, randomForest, Rgraphviz
 Data Analysis:

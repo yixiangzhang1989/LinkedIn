@@ -5,7 +5,7 @@ Software:
 MATLAB:
     DOMFluor Toolbox (DOMFluor), LIBSVM, LIBSVM-FarutoUltimate, SOM Toolbox (somtoolbox)
 Python:
-    Altair, Blaze, Bokeh, bqplot, Chaco, Conda, Dask, Django, Enable, Flask, ggplot, Glue (glueviz), Graphviz, guidata, guiqwt, HoloViews, into, IPython, Jinja2, leather, Mako, matplotlib, mpld3, MySQL Connector/Python (mysql-connector), NumPy, Odo, pandas, pip, Plotly, Psycopg (psycopg2), py2exe, pyecharts, Pygal, PyLaTeX, PyMySQL, PyQtGraph, PythonQwt, rpy2, SciPy, seaborn, setuptools, SymPy, tqdm, Traits, TraitsUI, Veusz, Vincent, VisPy, wxPython, xarray, xlrd, xlutils, xlwt
+    Altair, Blaze, Bokeh, bqplot, Chaco, Conda, Dask, Django, Enable, Flask, ggplot, Glue (glueviz), Graphviz, guidata, guiqwt, HoloViews, into, IPython, Jinja2, leather, Mako, matplotlib, mca, mpld3, MySQL Connector/Python (mysql-connector), NumPy, Odo, openpyxl, pandas, pip, Plotly, Psycopg (psycopg2), py2exe, pyecharts, Pygal, PyLaTeX, PyMySQL, PyPrind, PyQtGraph, PythonQwt, rpy2, SciPy, seaborn, setuptools, SymPy, tqdm, Traits, TraitsUI, Veusz, Vincent, VisPy, wxPython, xarray, xlrd, XlsxWriter, xlutils, xlwt
 R:
     BiocInstaller, ca, data.table, devtools, dplyr, ggplot2, ggvis, mschart, officer, pbapply, Plotly, plyr, randomForest, readxl, reshape2, Rgraphviz, RPostgreSQL, rstudioapi, stringi, stringr, tidyr, tidyverse
 Data Analysis:

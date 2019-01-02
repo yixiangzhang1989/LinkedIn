@@ -5,7 +5,7 @@ Software:
 MATLAB:
     DOMFluor Toolbox (DOMFluor), LIBSVM, LIBSVM-FarutoUltimate, SOM Toolbox (somtoolbox)
 Python:
-    Altair, Blaze, bqplot, Chaco, Conda, Dask, Enable, ggplot, Graphviz, guidata, guiqwt, HoloViews, into, IPython, leather, matplotlib, mpld3, NumPy, Odo, pandas, pip, Plotly, py2exe, pyecharts, Pygal, PyLaTeX, PyMySQL, PyQtGraph, PythonQwt, rpy2, SciPy, seaborn, SymPy, Traits, TraitsUI, Veusz, Vincent, VisPy, wxPython, xarray
+    Altair, Blaze, bqplot, Chaco, Conda, Dask, Enable, Flask, ggplot, Graphviz, guidata, guiqwt, HoloViews, into, IPython, leather, matplotlib, mpld3, MySQL Connector/Python (mysql-connector), NumPy, Odo, pandas, pip, Plotly, py2exe, pyecharts, Pygal, PyLaTeX, PyMySQL, PyQtGraph, PythonQwt, rpy2, SciPy, seaborn, SymPy, Traits, TraitsUI, Veusz, Vincent, VisPy, wxPython, xarray
 R:
     BiocInstaller, data.table, devtools, dplyr, ggplot2, ggvis, mschart, officer, pbapply, Plotly, plyr, randomForest, readxl, reshape2, Rgraphviz, RPostgreSQL, rstudioapi, stringi, stringr, tidyr, tidyverse
 Data Analysis:

@@ -1,11 +1,11 @@
 Computer Programming Language:
     C
 Software:
-    Adobe Photoshop Lightroom, Apache OpenOffice, Chem3D, ChemDraw, ConsoleZ, gnuplot, IPython Notebook, Jupyter Notebook, JupyterLab, LibreOffice, MetaWin, Navicat for MySQL, Navicat for PostgreSQL, Notepad++, Notepad2, OpenMEE, PaintTool SAI, PhotoFiltre Studio, ptpython, PyCharm, PyScripter, Python(x,y), Sublime Text, TeX Live, TeXworks, UltraEdit, Veusz, VIM, WinPython, WinPython Control Panel, WPS Spreadsheets, Zotero
+    Adobe Photoshop Lightroom, Apache OpenOffice, Chem3D, ChemDraw, ConsoleZ, Glue, gnuplot, IPython Notebook, Jupyter Notebook, JupyterLab, LibreOffice, MetaWin, Navicat for MySQL, Navicat for PostgreSQL, Notepad++, Notepad2, OpenMEE, PaintTool SAI, PhotoFiltre Studio, ptpython, PyCharm, PyScripter, Python(x,y), Sublime Text, TeX Live, TeXworks, UltraEdit, Veusz, VIM, WinPython, WinPython Control Panel, WPS Spreadsheets, Zotero
 MATLAB:
     DOMFluor Toolbox (DOMFluor), LIBSVM, LIBSVM-FarutoUltimate, SOM Toolbox (somtoolbox)
 Python:
-    Altair, Blaze, Bokeh, bqplot, Chaco, Conda, Dask, Django, Enable, Flask, ggplot, Graphviz, guidata, guiqwt, HoloViews, into, IPython, Jinja2, leather, Mako, matplotlib, mpld3, MySQL Connector/Python (mysql-connector), NumPy, Odo, pandas, pip, Plotly, Psycopg (psycopg2), py2exe, pyecharts, Pygal, PyLaTeX, PyMySQL, PyQtGraph, PythonQwt, rpy2, SciPy, seaborn, setuptools, SymPy, Traits, TraitsUI, Veusz, Vincent, VisPy, wxPython, xarray
+    Altair, Blaze, Bokeh, bqplot, Chaco, Conda, Dask, Django, Enable, Flask, ggplot, Glue (glueviz), Graphviz, guidata, guiqwt, HoloViews, into, IPython, Jinja2, leather, Mako, matplotlib, mpld3, MySQL Connector/Python (mysql-connector), NumPy, Odo, pandas, pip, Plotly, Psycopg (psycopg2), py2exe, pyecharts, Pygal, PyLaTeX, PyMySQL, PyQtGraph, PythonQwt, rpy2, SciPy, seaborn, setuptools, SymPy, Traits, TraitsUI, Veusz, Vincent, VisPy, wxPython, xarray
 R:
     BiocInstaller, data.table, devtools, dplyr, ggplot2, ggvis, mschart, officer, pbapply, Plotly, plyr, randomForest, readxl, reshape2, Rgraphviz, RPostgreSQL, rstudioapi, stringi, stringr, tidyr, tidyverse
 Data Analysis:

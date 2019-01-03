@@ -5,7 +5,7 @@ Software:
 MATLAB:
     DOMFluor Toolbox (DOMFluor), LIBSVM, LIBSVM-FarutoUltimate, SOM Toolbox (somtoolbox)
 Python:
-    Altair, Blaze, Bokeh, bqplot, Chaco, Conda, Dask, Django, Enable, Flask, ggplot, Glue (glueviz), Graphviz, guidata, guiqwt, HoloViews, into, IPython, Jinja2, leather, Mako, matplotlib, mca, mpld3, MySQL Connector/Python (mysql-connector), NumPy, Odo, openpyxl, pandas, pip, Plotly, Psycopg (psycopg2), py2exe, pyecharts, Pygal, PyLaTeX, PyMySQL, PyPrind, PyQtGraph, PythonQwt, rpy2, SciPy, seaborn, setuptools, SymPy, tqdm, Traits, TraitsUI, Veusz, Vincent, VisPy, wxPython, xarray, xlrd, XlsxWriter, xlutils, xlwt
+    Altair, Blaze, Bokeh, bqplot, Chaco, Conda, Dask, Django, Enable, Flask, ggplot, Glue (glueviz), Graphviz, guidata, guiqwt, HoloViews, into, IPython, Jinja2, leather, Mako, matplotlib, mca, mpld3, MySQL Connector/Python (mysql-connector), NumPy, Odo, openpyxl, Orange (Orange3), pandas, pip, Plotly, Psycopg (psycopg2), py2exe, pyecharts, Pygal, PyLaTeX, PyMySQL, PyPrind, PyQtGraph, python-tabulate (tabulate), PythonQwt, rpy2, SciPy, seaborn, setuptools, SymPy, tqdm, Traits, TraitsUI, Veusz, Vincent, VisPy, wxPython, xarray, xlrd, XlsxWriter, xlutils, xlwt
 R:
     BiocInstaller, ca, data.table, devtools, dplyr, ggplot2, ggvis, magrittr, mschart, officer, openxlsx, pbapply, Plotly, plyr, randomForest, readxl, reshape2, Rgraphviz, RPostgreSQL, rstudioapi, stringi, stringr, tibble, tidyr, tidyverse, writexl
 Data Analysis:
@@ -17,6 +17,7 @@ Data Analysis:
     one-way analysis of variance;
     k-means, hierarchical cluster analysis;
     factor analysis;
+    naive Bayes;
     Decision Tree, Random Forest;
     Back Propagation Neural Network, Discrete Hopfield Neural Network, Elman Neural Network, Generalized Regression Neural Network, Learning Vector Quantization Neural Network, Probabilistic Neural Network, Radical Basis Function Neural Network;
     Extreme Learning Machine;

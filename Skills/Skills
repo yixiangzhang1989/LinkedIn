@@ -5,9 +5,9 @@ Software:
 MATLAB:
     DOMFluor Toolbox (DOMFluor), LIBSVM, LIBSVM-FarutoUltimate, SOM Toolbox (somtoolbox)
 Python:
-    Altair, Blaze, Bokeh, bqplot, Chaco, Conda, Dask, Django, Enable, Flask, ggplot, Glue (glueviz), Graphviz, guidata, guiqwt, HoloViews, into, IPython, Jinja2, Keras, leather, Mako, matplotlib, mca, mpld3, MXNet, MySQL Connector/Python (mysql-connector), NumPy, Odo, openpyxl, Orange (Orange3), paddlepaddle, pandas, pip, Plotly, Psycopg (psycopg2), py2exe, pyecharts, Pygal, pyglmnet, PyLaTeX, PyMySQL, PyPrind, PyQtGraph, PythonQwt, python-tabulate (tabulate), PyTorch, rpy2, scikit-cmeans, scikit-fuzzy, SciPy, seaborn, setuptools, SymPy, TensorFlow, The Microsoft Cognitive Toolkit (cntk), Theano, tqdm, Traits, TraitsUI, Veusz, Vincent, VisPy, wxPython, xarray, XGBoost, xlrd, XlsxWriter, xlutils, xlwt
+    Altair, Blaze, Bokeh, bqplot, Chaco, Conda, Dask, Django, Enable, Flask, ggplot, Glue (glueviz), Graphviz, guidata, guiqwt, HoloViews, into, IPython, Jinja2, Keras, leather, Mako, matplotlib, mca, mpld3, MXNet, MySQL Connector/Python (mysql-connector), NumPy, Odo, openpyxl, Orange (Orange3), paddlepaddle, pandas, pip, Plotly, Psycopg (psycopg2), py2exe, pyecharts, Pygal, pyglmnet, PyLaTeX, PyMySQL, PyPrind, PyQtGraph, PythonQwt, python-tabulate (tabulate), PyTorch, rpy2, scikit-cmeans, scikit-fuzzy, scikit-learn, SciPy, seaborn, setuptools, StatsModels, SymPy, TensorFlow, The Microsoft Cognitive Toolkit (cntk), Theano, tqdm, Traits, TraitsUI, Veusz, Vincent, VisPy, wxPython, xarray, XGBoost, xlrd, XlsxWriter, xlutils, xlwt
 R:
-    BiocInstaller, ca, data.table, devtools, dplyr, e1071, ggplot2, ggvis, glmnet, haven, magrittr, mschart, officer, openxlsx, pbapply, Plotly, plyr, randomForest, readr, readxl, reshape2, Rgraphviz, rotationForest, RPostgreSQL, rstudioapi, stringi, stringr, tibble, tidyr, tidyverse, tidyxl, writexl, XGBoost
+    BiocInstaller, ca, data.table, devtools, dplyr, e1071, flextable, ggplot2, ggvis, glmnet, haven, magrittr, mschart, officer, openxlsx, pbapply, Plotly, plyr, randomForest, readr, readxl, reshape2, Rgraphviz, rotationForest, RPostgreSQL, rstudioapi, stringi, stringr, tibble, tidyr, tidyverse, tidyxl, writexl, XGBoost
 Data Analysis:
     independent two-sample t-test
     simple linear regression analysis, multiple linear regression analysis, multivariate linear regression analysis;

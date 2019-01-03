@@ -5,14 +5,15 @@ Software:
 MATLAB:
     DOMFluor Toolbox (DOMFluor), LIBSVM, LIBSVM-FarutoUltimate, SOM Toolbox (somtoolbox)
 Python:
-    Altair, Blaze, Bokeh, bqplot, Chaco, Conda, Dask, Django, Enable, Flask, ggplot, Glue (glueviz), Graphviz, guidata, guiqwt, HoloViews, into, IPython, Jinja2, leather, Mako, matplotlib, mca, mpld3, MySQL Connector/Python (mysql-connector), NumPy, Odo, openpyxl, Orange (Orange3), pandas, pip, Plotly, Psycopg (psycopg2), py2exe, pyecharts, Pygal, PyLaTeX, PyMySQL, PyPrind, PyQtGraph, python-tabulate (tabulate), PythonQwt, rpy2, SciPy, seaborn, setuptools, SymPy, tqdm, Traits, TraitsUI, Veusz, Vincent, VisPy, wxPython, xarray, XGBoost, xlrd, XlsxWriter, xlutils, xlwt
+    Altair, Blaze, Bokeh, bqplot, Chaco, Conda, Dask, Django, Enable, Flask, ggplot, Glue (glueviz), Graphviz, guidata, guiqwt, HoloViews, into, IPython, Jinja2, leather, Mako, matplotlib, mca, mpld3, MySQL Connector/Python (mysql-connector), NumPy, Odo, openpyxl, Orange (Orange3), pandas, pip, Plotly, Psycopg (psycopg2), py2exe, pyecharts, Pygal, PyLaTeX, PyMySQL, PyPrind, PyQtGraph, python-tabulate (tabulate), PythonQwt, rpy2, SciPy, seaborn, setuptools, SymPy, The Microsoft Cognitive Toolkit (cntk), tqdm, Traits, TraitsUI, Veusz, Vincent, VisPy, wxPython, xarray, XGBoost, xlrd, XlsxWriter, xlutils, xlwt
 R:
-    BiocInstaller, ca, data.table, devtools, dplyr, ggplot2, ggvis, magrittr, mschart, officer, openxlsx, pbapply, Plotly, plyr, randomForest, readr, readxl, reshape2, Rgraphviz, RPostgreSQL, rstudioapi, stringi, stringr, tibble, tidyr, tidyverse, writexl, XGBoost
+    BiocInstaller, ca, data.table, devtools, dplyr, ggplot2, ggvis, glmnet, haven, magrittr, mschart, officer, openxlsx, pbapply, Plotly, plyr, randomForest, readr, readxl, reshape2, Rgraphviz, RPostgreSQL, rstudioapi, stringi, stringr, tibble, tidyr, tidyverse, writexl, XGBoost
 Data Analysis:
     independent two-sample t-test
     simple linear regression analysis, multiple linear regression analysis, multivariate linear regression analysis;
     ordinary least square regression analysis, principal component regression analysis, partial least square regression analysis, ridge regression analysis;
     generalized linear model;
+    logistic regression;
     linear correlation analysis;
     canonical correlation analysis;
     one-way analysis of variance;

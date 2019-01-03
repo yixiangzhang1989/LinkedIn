@@ -7,7 +7,7 @@ MATLAB:
 Python:
     Altair, Blaze, Bokeh, bqplot, Chaco, Conda, Dask, Django, Enable, Flask, ggplot, Glue (glueviz), Graphviz, guidata, guiqwt, HoloViews, into, IPython, Jinja2, leather, Mako, matplotlib, mca, mpld3, MySQL Connector/Python (mysql-connector), NumPy, Odo, openpyxl, Orange (Orange3), pandas, pip, Plotly, Psycopg (psycopg2), py2exe, pyecharts, Pygal, pyglmnet, PyLaTeX, PyMySQL, PyPrind, PyQtGraph, PythonQwt, python-tabulate (tabulate), rpy2, SciPy, seaborn, setuptools, SymPy, The Microsoft Cognitive Toolkit (cntk), tqdm, Traits, TraitsUI, Veusz, Vincent, VisPy, wxPython, xarray, XGBoost, xlrd, XlsxWriter, xlutils, xlwt
 R:
-    BiocInstaller, ca, data.table, devtools, dplyr, ggplot2, ggvis, glmnet, haven, magrittr, mschart, officer, openxlsx, pbapply, Plotly, plyr, randomForest, readr, readxl, reshape2, Rgraphviz, rotationForest, RPostgreSQL, rstudioapi, stringi, stringr, tibble, tidyr, tidyverse, tidyxl, writexl, XGBoost
+    BiocInstaller, ca, data.table, devtools, dplyr, e1071, ggplot2, ggvis, glmnet, haven, magrittr, mschart, officer, openxlsx, pbapply, Plotly, plyr, randomForest, readr, readxl, reshape2, Rgraphviz, rotationForest, RPostgreSQL, rstudioapi, stringi, stringr, tibble, tidyr, tidyverse, tidyxl, writexl, XGBoost
 Data Analysis:
     independent two-sample t-test
     simple linear regression analysis, multiple linear regression analysis, multivariate linear regression analysis;
@@ -20,6 +20,7 @@ Data Analysis:
     k-means, hierarchical cluster analysis;
     factor analysis;
     naive Bayes;
+    Fuzzy C-Means Clustering
     Decision Tree, Random Forest;
     Rotation Forest;
     Back Propagation Neural Network, Discrete Hopfield Neural Network, Elman Neural Network, Generalized Regression Neural Network, Learning Vector Quantization Neural Network, Probabilistic Neural Network, Radical Basis Function Neural Network;
